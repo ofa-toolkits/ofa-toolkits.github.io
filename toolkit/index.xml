@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OFA Toolkits</title>
-    <link>https://ofa-toolkits.github.io/</link>
-    <description>Recent content on OFA Toolkits</description>
+    <title>Toolkits on OFA Toolkits</title>
+    <link>https://ofa-toolkits.github.io/toolkit/</link>
+    <description>Recent content in Toolkits on OFA Toolkits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Organizing For Action</copyright>
     <lastBuildDate>Mon, 27 Nov 2017 13:05:30 -0600</lastBuildDate>
     
-	<atom:link href="https://ofa-toolkits.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ofa-toolkits.github.io/toolkit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
